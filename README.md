@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 🛠️ My interests include:
 
-Python development (automation, scripting, APIs)
-Social media integrations (Telegram, Discord, etc.)
-Building tools that help others
-Exploring new technologies and frameworks
+- Python development (automation, scripting, APIs)
+- Social media integrations (Telegram, Discord, etc.)
+- Building tools that help others
+- Exploring new technologies and frameworks
 
 💡 I'm always looking to collaborate on exciting projects and learn new things along the way. Feel free to check out my repos and connect with me!
