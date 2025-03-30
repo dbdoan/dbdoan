@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 - Building tools that help others
 - Exploring new technologies and frameworks
 
+Status:
+> Currently I am only working on my personal projects on the weekends, with weekdays more focused on improving my technical skills.
+
 💡 I'm always looking to collaborate on exciting projects and learn new things along the way. Feel free to check out my repos and connect with me!
