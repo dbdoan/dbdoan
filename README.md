@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😎 Hi there! I'm a Senior Computer Science student at the University of Houston with a passion for building innovative and practical tools. I specialize in Python development and love integrating it with social media platforms like Telegram and Discord to create useful automation, bots, and productivity tools.
+😎 Hi there! My name is Danny, I'm a Senior Computer Science student at the University of Houston with a passion for building innovative and practical tools. I specialize in Python development and love integrating it with social media platforms like Telegram and Discord to create useful automation, bots, and productivity tools.
 
 💫 I enjoy developing projects that solve real-world problems and provide value to others, whether it's automating workflows, enhancing communication, or simplifying complex tasks.
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Building tools that help others
 - Exploring new technologies and frameworks
 
-Status:
-> Currently I am only working on my personal projects on the weekends, with weekdays more focused on improving my technical skills.
-
 💡 I'm always looking to collaborate on exciting projects and learn new things along the way. Feel free to check out my repos and connect with me!
+
+⚙️ Status:
+> Currently I am only working on my personal projects on the weekends, with weekdays more focused on improving my technical skills.
