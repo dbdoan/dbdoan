@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   "currently": "Seeking a Summer 2025 SWE/IT internship"
   "location": "Houston, TX",
   "languages": ["en_US"],
-  "skills": ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "SQL"],
-  "frameworks": ["FastAPI", "Flask", "Node.JS"]
+  "skills": ["HTML", "CSS", "JavaScript", "Python", "SQL"],
+  "frameworks": ["FastAPI", "Flask", "React"]
 }
 ```
 
