@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```json
 {
   "name": "Danny Doan", 
-  "currently": "Seeking a SWE / IT employment role"
+  "currently": "Software Developer Intern",
   "location": "Houston, TX",
   "languages": ["en_US"],
   "skills": ["HTML", "CSS", "JavaScript", "Python", "SQL"],
