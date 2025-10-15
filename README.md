@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 
 
-🧑‍🔧 Hi there! My name is Danny, I'm a Computer Science student at the University of Houston with a passion for building innovative and practical tools. I specialize in Python development and love integrating it with social media platforms like Telegram and Discord to create useful automation, bots, and productivity tools.
+🧑‍🔧 Hi there! My name is Danny, I'm a Computer Science graduate from the University of Houston with a passion for building innovative and practical tools. I specialize in Python development and am expanding into front-end development, where I enjoy crafting clean, functional, and user-friendly interfaces that make technology more intuitive.
 
-⭐️ I'm always looking to collaborate on exciting projects and learn new things along the way. Feel free to check out my repos and connect with me!
+⭐️ I'm always eager to learn, collaborate, and connect with like-minded developers and creators. Feel free to check out my repos and connect with me!
 
 ```json
 {
