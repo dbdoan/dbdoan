@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 
-🧑‍🔧 hey, i’m danny. currently i am a junior software engineer for omega365 houston. outside of work; i break things, rebuild them, 
-    and make them work better.
+🤖 hey, i’m danny. currently diving into the a.i. space :')
 
 ⭐️ always down to talk, learn something new, or just connect — don’t hesitate to reach out! :D
 
