@@ -16,22 +16,23 @@ Here are some ideas to get you started:
 
 
 
-🧑‍🔧 Hi there! My name is Danny, I'm a Computer Science graduate from the University of Houston with a passion for building innovative and practical tools. I specialize in Python development and am expanding into front-end development, where I enjoy crafting clean, functional, and user-friendly interfaces that make technology more intuitive.
+🧑‍🔧 hey, i’m danny. currently i am a junior software engineer for omega365 houston. outside of work; i break things, rebuild them, 
+    and make them work better.
 
-⭐️ I'm always eager to learn, collaborate, and connect with like-minded developers and creators. Feel free to check out my repos and connect with me!
+⭐️ always down to talk, learn something new, or just connect — don’t hesitate to reach out! :D
 
 ```json
 {
   "name": "Danny Doan", 
-  "currently": "Software Developer Intern",
+  "role": "Junior Software Engineer @ Omega365",
   "location": "Houston, TX",
   "languages": ["en_US"],
-  "skills": ["HTML", "CSS", "JavaScript", "Python", "SQL"],
+  "skills": ["C#", "JavaScript", "Python", "SQL"],
   "frameworks": ["FastAPI", "Flask", "React"]
 }
 ```
 
-## Links
+## links
 
-- **LinkedIn:** https://www.linkedin.com/in/dbdoan/
-- **Portfolio:** https://dbdoan.dev/
+- **linkedIn:** https://www.linkedin.com/in/dbdoan/
+- **portfolio:** https://dbdoan.dev/
