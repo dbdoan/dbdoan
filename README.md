@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-🤖 hey, i’m danny. currently diving into the a.i. space :')
+🤖 currently diving into the a.i. space :')
 
 ⭐️ always down to talk, learn something new, or just connect — don’t hesitate to reach out! :D
 
